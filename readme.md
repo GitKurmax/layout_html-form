@@ -53,4 +53,4 @@ Add attribute `data-qa="field-placeholder"` to test it correctly.
 **Result**
 
 - [UPDATE DEMO LINK](https://GitKurmax.github.io/layout_html-form/)
-- [UPDATE TEST REPORT LINK](GitKurmax.github.io/layout_html-form/report/html_report/)
+- [UPDATE TEST REPORT LINK](https://GitKurmax.github.io/layout_html-form/report/html_report/)

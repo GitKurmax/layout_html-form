@@ -1,3 +1,7 @@
+label:not(.radio) {
+  display: block;
+}
+
 input {
   margin-bottom: 10px;
 }
